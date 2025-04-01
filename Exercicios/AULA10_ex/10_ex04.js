@@ -1,0 +1,6 @@
+// Exercício 04
+const prompt = require( "prompt-sync" ) ();
+////////////////////////////////////////////////
+
+
+    
